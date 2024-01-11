@@ -12,32 +12,32 @@ Mfg_Year	-- Manufacturing Year<br>
 KM -- Accumulated Kilometers on odometer<br>
 Fuel_Type	 -- Fuel Type (Petrol, Diesel, CNG)
 HP -- Horse Power<br>
-Met_Color	 -- Metallic Color?  (Yes=1, No=0)
-Color -- Color (Blue, Red, Grey, Silver, Black, etc.)
-Automatic	-- Automatic ( (Yes=1, No=0)
-cc -- Cylinder Volume in cubic centimeters
-Doors -- Number of doors
-Cylinders	-- Number of cylinders
-Gears -- Number of gear positions
-Quarterly_Tax -- Quarterly road tax in EUROs
-Weight -- Weight in Kilograms
-Mfr_Guarantee -- Within Manufacturer's Guarantee period  (Yes=1, No=0)
-BOVAG_Guarantee -- BOVAG (Dutch dealer network) Guarantee  (Yes=1, No=0)
-Guarantee_Period -- 	Guarantee period in months
-ABS -- Anti-Lock Brake System (Yes=1, No=0)
-Airbag_1 -- Driver_Airbag  (Yes=1, No=0)
-Airbag_2 -- Passenger Airbag  (Yes=1, No=0)
-Airco -- Airconditioning  (Yes=1, No=0)
-Automatic_airco -- Automatic Airconditioning  (Yes=1, No=0)
-Boardcomputer -- Boardcomputer  (Yes=1, No=0)
-CD_Player -- CD Player  (Yes=1, No=0)
-Central_Lock -- Central Lock  (Yes=1, No=0)
-Powered_Windows -- Powered Windows  (Yes=1, No=0)
-Power_Steering -- Power Steering  (Yes=1, No=0)
-Radio -- Radio  (Yes=1, No=0)
-Mistlamps	-- Mistlamps  (Yes=1, No=0)
-Sport_Model -- Sport Model  (Yes=1, No=0)
-Backseat_Divider -- Backseat Divider  (Yes=1, No=0)
-Metallic_Rim --Metallic Rim  (Yes=1, No=0)
-Radio_cassette -- Radio Cassette  (Yes=1, No=0)
-Tow_Bar -- Tow Bar  (Yes=1, No=0)
+Met_Color	 -- Metallic Color?  (Yes=1, No=0)<br>
+Color -- Color (Blue, Red, Grey, Silver, Black, etc.)<br>
+Automatic	-- Automatic ( (Yes=1, No=0)<br>
+cc -- Cylinder Volume in cubic centimeters<br>
+Doors -- Number of doors<br>
+Cylinders	-- Number of cylinders<br>
+Gears -- Number of gear positions<br>
+Quarterly_Tax -- Quarterly road tax in EUROs<br>
+Weight -- Weight in Kilograms<br>
+Mfr_Guarantee -- Within Manufacturer's Guarantee period  (Yes=1, No=0)<br>
+BOVAG_Guarantee -- BOVAG (Dutch dealer network) Guarantee  (Yes=1, No=0)<br>
+Guarantee_Period -- 	Guarantee period in months<br>
+ABS -- Anti-Lock Brake System (Yes=1, No=0)<br>
+Airbag_1 -- Driver_Airbag  (Yes=1, No=0)<br>
+Airbag_2 -- Passenger Airbag  (Yes=1, No=0)<br>
+Airco -- Airconditioning  (Yes=1, No=0)<br>
+Automatic_airco -- Automatic Airconditioning  (Yes=1, No=0)<br>
+Boardcomputer -- Boardcomputer  (Yes=1, No=0)<br>
+CD_Player -- CD Player  (Yes=1, No=0)<br>
+Central_Lock -- Central Lock  (Yes=1, No=0)<br>
+Powered_Windows -- Powered Windows  (Yes=1, No=0)<br>
+Power_Steering -- Power Steering  (Yes=1, No=0)<br>
+Radio -- Radio  (Yes=1, No=0)<br>
+Mistlamps	-- Mistlamps  (Yes=1, No=0)<br>
+Sport_Model -- Sport Model  (Yes=1, No=0)<br>
+Backseat_Divider -- Backseat Divider  (Yes=1, No=0)<br>
+Metallic_Rim --Metallic Rim  (Yes=1, No=0)<br>
+Radio_cassette -- Radio Cassette  (Yes=1, No=0)<br>
+Tow_Bar -- Tow Bar  (Yes=1, No=0)<br>
