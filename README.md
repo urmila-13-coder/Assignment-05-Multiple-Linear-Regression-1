@@ -4,14 +4,14 @@ Corolla<-Corolla[c("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly
 
  
 
-Model -- model of the car
-Price  -- Offer Price in EUROs	
-Age_08_04 -- Age in months as in August 2004	
-Mfg_Month -- Manufacturing month (1-12)	
-Mfg_Year	-- Manufacturing Year
-KM -- Accumulated Kilometers on odometer
+Model -- model of the car<br>
+Price  -- Offer Price in EUROs<br>	
+Age_08_04 -- Age in months as in August 2004	<br>
+Mfg_Month -- Manufacturing month (1-12)	<br>
+Mfg_Year	-- Manufacturing Year<br>
+KM -- Accumulated Kilometers on odometer<br>
 Fuel_Type	 -- Fuel Type (Petrol, Diesel, CNG)
-HP -- Horse Power
+HP -- Horse Power<br>
 Met_Color	 -- Metallic Color?  (Yes=1, No=0)
 Color -- Color (Blue, Red, Grey, Silver, Black, etc.)
 Automatic	-- Automatic ( (Yes=1, No=0)
